@@ -13,5 +13,5 @@ entries:
       - Churn Prediction
       - Support Vector Classiciation (SVC)
       - MlFlow Experiments
-     git_url: "https://github.com/ogakulov/CML_AMP_Churn_Prediction_mlflow" 
+     git_url: "https://github.com/zen2pascal/CML_AMP_Churn_Prediction_mlflow" 
      is_prototype: true
